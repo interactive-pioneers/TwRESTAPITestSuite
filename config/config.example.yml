@@ -1,0 +1,4 @@
+consumer_key: "Your Twitter app key here"
+consumer_secret: "Your Twitter app secret here"
+oauth_token: "OAuth token here"
+oauth_token_secret: "OAuth token secret here"
